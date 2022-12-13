@@ -1,5 +1,16 @@
 ### 백엔드 개발자
 
+#### Stack
+- Java
+- Spring
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- MySQL
+- Amazon EC2
+- Amazon RDS
+
+
 <!--
 **dev32user/dev32user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
