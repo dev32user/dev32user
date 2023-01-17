@@ -1,6 +1,6 @@
-### 백엔드 개발자
+# 튼튼한 개발자, 이동규입니다. 
 
-#### Stack
+## Stack
 - Java
 - Spring
 - Spring Boot
@@ -9,6 +9,10 @@
 - MySQL
 - Amazon EC2
 - Amazon RDS
+
+## Portfolio
+- [Post-On, 주변의 모든 즐길거리](https://github.com/dev32user/seb40_main_034)
+- [stackoverflow 클론코딩](https://github.com/dev32user/seb40_pre_021)
 
 
 <!--
