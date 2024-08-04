@@ -6,7 +6,10 @@
 - Spring Boot
 - Spring Security
 - Spring Data JPA
+### DB
+- Oracle
 - MySQL
+
 - Amazon EC2
 - Amazon RDS
 
