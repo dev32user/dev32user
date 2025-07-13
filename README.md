@@ -1,26 +1,11 @@
-# 튼튼한 개발자, 이동규입니다. 
+# 단단한 프로그래머, 이동규입니다. 
 
-## Stack
-
-- Java
-- Spring
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Amazon EC2
-- Amazon RDS
-
-### DB
-
-- Oracle
-- MySQL
-
-
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git)](https://skillicons.dev)
 
 ## Portfolio
+- TBA
 
-- [Post-On, 주변의 모든 즐길거리](https://github.com/dev32user/seb40_main_034)
-- [stackoverflow 클론코딩](https://github.com/dev32user/seb40_pre_021)
 
 
 <!--
