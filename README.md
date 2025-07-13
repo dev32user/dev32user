@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git)](https://skillicons.dev)
 
 ## Portfolio
-- TBA
+- WIP
 
 
 
